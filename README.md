@@ -1,9 +1,11 @@
 📊 Projeto: Fatores Socioeconômicos e Expectativa de Vida
 
-📌 Descrição
+📘 Sobre o Projeto
 
-Este projeto tem como objetivo investigar quais fatores socioeconômicos impactam na expectativa de vida das pessoas.
-A análise foi desenvolvida em Python utilizando bibliotecas de manipulação, visualização e modelagem estatística, com foco em compreender relações entre variáveis e testar hipóteses por meio de modelos estatísticos.
+Este projeto foi desenvolvido como parte do curso “Matemática e Estatística Aplicada para Data Science, Machine Learning e IA” da Data Science Academy (DSA).
+
+O objetivo é investigar quais fatores socioeconômicos impactam na expectativa de vida das pessoas, aplicando técnicas de estatística, análise exploratória e modelagem de dados.
+Além da proposta original do curso, incluí minhas próprias análises e visualizações adicionais para aprofundar os insights e reforçar o aprendizado.
 
 🛠️ Tecnologias Utilizadas
 
